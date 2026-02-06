@@ -1,6 +1,6 @@
 # IpaDownloadTool
 <div align="center">
-  <img src="http://www.zxlee.cn/IpaDownloadToolLogo.png" width="150" height="150"/>
+  <img src="http://zxlee.oss-cn-shanghai.aliyuncs.com/IpaDownloadToolLogo.png" width="150" height="150"/>
   <h2 align="center">IPA提取器</h2>
 </div> 
 
@@ -9,12 +9,12 @@
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/SmileZXLee/IpaDownloadTool/blob/master/LICENSE)&nbsp;
 ### Release版本(点击👇🏻下载IPA)
 #### ⭐️ 最新版本
-* [Release-2.2.0(20250302)](http://www.zxlee.cn/ipaDownloadTool/release/ipaDownloadTool-2.2.0.ipa)
+* [Release-2.2.0(20250302)](http://zxlee.oss-cn-shanghai.aliyuncs.com/ipaDownloadTool/release/ipaDownloadTool-2.2.0.ipa)
 #### 历史版本
-* [Release-2.1.2(20240903)](http://www.zxlee.cn/ipaDownloadTool/release/ipaDownloadTool-2.1.2.ipa)
-* [Release-2.1.1(20230809)](http://www.zxlee.cn/ipaDownloadTool/release/ipaDownloadTool-2.1.1.ipa)
-* [Release-2.1.0(20230408)](http://www.zxlee.cn/ipaDownloadTool/release/ipaDownloadTool-2.1.0.ipa)
-* [Release-2.0.1(20221018)](http://www.zxlee.cn/ipaDownloadTool/release/ipaDownloadTool-2.0.1.ipa)
+* [Release-2.1.2(20240903)](http://zxlee.oss-cn-shanghai.aliyuncs.com/ipaDownloadTool/release/ipaDownloadTool-2.1.2.ipa)
+* [Release-2.1.1(20230809)](http://zxlee.oss-cn-shanghai.aliyuncs.com/ipaDownloadTool/release/ipaDownloadTool-2.1.1.ipa)
+* [Release-2.1.0(20230408)](http://zxlee.oss-cn-shanghai.aliyuncs.com/ipaDownloadTool/release/ipaDownloadTool-2.1.0.ipa)
+* [Release-2.0.1(20221018)](http://zxlee.oss-cn-shanghai.aliyuncs.com/ipaDownloadTool/release/ipaDownloadTool-2.0.1.ipa)
 ### 反馈qq群：[114310688](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=cUe6p9A7rLwr3S01feeTeMj0u6cwolDG&authKey=ZVjr8Tbi4%2F97gpNTYukHITpu4wKo2XVda0w%2FhxlOG6MtEip%2BsKm6eX2rmcTm7FBW&noverify=0&group_code=114310688)
 ### 功能
 * 此工具用来快捷下载/储存第三方来源的IPA
@@ -33,9 +33,9 @@
 ### 预览
 |                        操作演示                        |                        应用详情                        |
 | :----------------------------------------------------: | :----------------------------------------------------: |
-| ![](http://www.zxlee.cn/ipaDownloadTool/img/demo3.gif) | ![](http://www.zxlee.cn/ipaDownloadTool/img/demo1.png) |
+| ![](http://zxlee.oss-cn-shanghai.aliyuncs.com/ipaDownloadTool/img/demo3.gif) | ![](http://zxlee.oss-cn-shanghai.aliyuncs.com/ipaDownloadTool/img/demo1.png) |
 |                  解析获取UDID描述文件                  |                     关于IPA提取器                      |
-| ![](http://www.zxlee.cn/ipaDownloadTool/img/demo4.gif) | ![](http://www.zxlee.cn/ipaDownloadTool/img/demo2.png) |
+| ![](http://zxlee.oss-cn-shanghai.aliyuncs.com/ipaDownloadTool/img/demo4.gif) | ![](http://zxlee.oss-cn-shanghai.aliyuncs.com/ipaDownloadTool/img/demo2.png) |
 
 ### 项目中使用的第三方:
 * [ALToastView](https://github.com/alexleutgoeb/ALToastView)
